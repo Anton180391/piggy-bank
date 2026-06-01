@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Данные приложения (не храним в Git)
+data.json
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
